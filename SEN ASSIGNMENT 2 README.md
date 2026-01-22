@@ -62,4 +62,5 @@ The project demonstrates the full SDLC process including requirement analysis, d
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/christiancode-sketch/SEN-201-Assignments.git
+   git clone https://github.com/christiancode-sketch/SEN-201-ASSIGNMENT-REPO-2/tree/main
+
